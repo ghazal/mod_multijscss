@@ -4,6 +4,7 @@ mod_multijscss
 joomla module add multiple CSS and JS files
 
 #### Exemples : HTML pour TableSorter  ####
+##### Exemple de base #####
 
 ``` html
 <p>Démo Table sorter</p>
@@ -79,6 +80,8 @@ joomla module add multiple CSS and JS files
 	</table>
 
 ```
+
+##### Exemple dans example-widgets.html #####
 
 ``` html
 <p>Table sorter widgets</p>
