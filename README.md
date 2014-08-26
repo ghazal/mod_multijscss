@@ -1,7 +1,9 @@
 mod_multijscss
 ==============
 
-joomla module add multiple CSS and JS files
+Ce module pour Joomla permet d'intégrer des fichiers JS et CSS - et leurs images - dans un article.
+
+Les fichiers JS et CSS sont localisés dans le répertoire media/mod_multijscss/
 
 #### Exemples : HTML pour TableSorter  ####
 ##### Exemple de base #####
