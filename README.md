@@ -5,6 +5,10 @@ Ce module pour Joomla permet d'intégrer des fichiers JS et CSS - et leurs image
 
 Les fichiers JS et CSS sont localisés dans le répertoire media/mod_multijscss/
 
+Le placement du loadposition est expliqué dans le descriptif du module. 
+
+Choix de {loadposition 2048} pour la simplicité de la démo.
+
 #### Exemple : HTML pour 2048  ####
 
 
