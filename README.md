@@ -1,5 +1,6 @@
 mod_multijscss
 ==============
+EDIT Updated for Joomla 3.8.1
 
 Ce module pour Joomla permet d'intégrer des fichiers JS et CSS - et leurs images - dans un article.
 
